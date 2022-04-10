@@ -1,8 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Project/Maven2/JavaApp/src/main/java/${packagePath}/${mainClassName}.java to edit this template
- */
-
 package com.mycompany.primeiroprograma; /*Pacote*/
 
 /**
@@ -28,7 +23,8 @@ public class PrimeiroPrograma { /*Classe*/
         /*void indica a presençã de um método*/
         System.out.print("Hello World!");
         /*sout*/
-        System.out.println("\nTestando sout e tab.");       
+        System.out.println("\nTestando sout e tab.");  
+        
         
         /*println serve para printar e pular para a linha de baixo*/
     }
