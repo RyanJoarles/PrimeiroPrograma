@@ -3,14 +3,14 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Project/Maven2/JavaApp/src/main/java/${packagePath}/${mainClassName}.java to edit this template
  */
 
-package com.mycompany.primeiroprograma;
+package com.mycompany.primeiroprograma; /*Pacote*/
 
 /**
  *
  * @author hawoc
  */
 
-public class PrimeiroPrograma {
+public class PrimeiroPrograma { /*Classe*/
     /*  Aula 04 Curso em Vídeo
     psvm
     
@@ -24,7 +24,8 @@ public class PrimeiroPrograma {
     */
     
 
-    public static void main(String[] args) {
+    public static void main(String[] args) { /*Método*/
+        /*void indica a presençã de um método*/
         System.out.print("Hello World!");
         /*sout*/
         System.out.println("\nTestando sout e tab.");       
